@@ -27,7 +27,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: Joshuagermany
-    github:  Joshuagermany
+    github: Joshuagermany
     linkedIn: in/joshua-cho-219360283
     #dribbble: jekyll
     #flickr:   jekyll
@@ -53,16 +53,14 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-admin
+    - jekyll-seo-tag
+    - jekyll-admin
 #  - jekyll-feed
 
-whitelist:
-  - jekyll-admin
-  
+
 jekyll_admin:
 
 hidden_links:
